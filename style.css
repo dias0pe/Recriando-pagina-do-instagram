@@ -59,7 +59,7 @@ body {
 }
 
 .instagram-logo img{
-    height: 3rem;
+    height: 4rem;
 }
 
 .baixe-o-app{
@@ -115,20 +115,21 @@ padding: 1rem;
 
 .botao{
     font-size: 1.2em;
-    background: #65a4ec;
+    background: #3889d4;
     border: 0;
-    margin-top: 5px;
+    border-radius: 7px;
+    margin-top: 6px;
     margin-bottom: 1em;
-    margin-left: calc(25% - 1.2em);
+    margin-left: calc(50% - 1.2em);
     color: #ffffff;
     padding: 0.2em 0.6em;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
-    transform: translate(-50%, -50%);
+
 }
 
 .botao:hover {
-    background: #ccbbff;
+    background: #0d62b1;
     box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
     text-shadow: none;
 }
